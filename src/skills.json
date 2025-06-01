@@ -3,35 +3,35 @@
         "id" : "1",
         "title" : "HTML 5",
         "subtitle" : "Standard language for creating and structuring web page.",
-        "photo" : "public/images/h.png"
+        "photo" : "/public/images/h.png"
     },
     {
         "id" : "2",
         "title" : "CSS",
         "subtitle" : "Declarative language for styling web pages.",
-        "photo" : "public/images/css.png"
+        "photo" : "/public/images/css.png"
     },
     {
         "id" : "3",
         "title" : "JAVASCRIPT",
         "subtitle" : "Programming language of the Web.",
-        "photo" : "public/images/javascript.png"
+        "photo" : "/public/images/javascript.png"
     },
     {
         "id" : "4",
         "title" : "TAILWIND",
         "subtitle" : "Utility-first CSS framework.",
-        "photo" : "public/images/tailwind.png"
+        "photo" : "/public/images/tailwind.png"
     },
     {
         "id" : "5",
         "title" : "REACT",
         "subtitle" : "JavaScript library for building user interfaces.",
-        "photo" : "public/images/react.png"
+        "photo" : "/public/images/react.png"
     },
     {
         "title" : "JAVA",
         "subtitle" : "A high-level, general-purpose, memory-safe, object-oriented programming language.",
-        "photo" : "/images/java.png"
+        "photo" : "/public/images/java.png"
     }
 ]
