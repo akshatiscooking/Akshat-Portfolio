@@ -29,6 +29,7 @@
         "subtitle" : "JavaScript library for building user interfaces.",
         "photo" : "public/images/react.png"
     },
+    {
         "title" : "JAVA",
         "subtitle" : "A high-level, general-purpose, memory-safe, object-oriented programming language.",
         "photo" : "/images/java.png"
