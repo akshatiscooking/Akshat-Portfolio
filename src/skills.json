@@ -3,7 +3,7 @@
         "id" : "1",
         "title" : "HTML 5",
         "subtitle" : "Standard language for creating and structuring web page.",
-        "photo" : "`${process.env.PUBLIC_URL}/images/h.png"
+        "photo" : "${process.env.PUBLIC_URL}/images/h.png"
     },
     {
         "id" : "2",
