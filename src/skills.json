@@ -3,7 +3,7 @@
         "id" : "1",
         "title" : "HTML 5",
         "subtitle" : "Standard language for creating and structuring web page.",
-        "photo" : "./images/h.png"
+        "photo" : "images/h.png"
     },
     {
         "id" : "2",
@@ -30,7 +30,6 @@
         "photo" : "images/react.png"
     },
     {
-        "id" : "6",
         "title" : "JAVA",
         "subtitle" : "A high-level, general-purpose, memory-safe, object-oriented programming language.",
         "photo" : "images/java.png"
